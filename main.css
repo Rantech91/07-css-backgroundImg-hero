@@ -30,9 +30,9 @@ body {
 
 .hero {
     background: linear-gradient(to right,
-            rgba(105, 62, 27, 0.2),
-            rgba(105, 62, 27, 0.7)),
-        url("./hero-bcg.jpg") center/cover;
+            rgba(0, 0, 0, 0.2),
+            rgba(0, 0, 0, 0.4)),
+        url("./sallito1.jpg") center/cover;
     min-height: calc(100vh - 5rem);
 }
 
